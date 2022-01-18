@@ -5,9 +5,7 @@
     "license": [
         "OSL-3.0"
     ],
-    "require": {
-        "aur/central-bank-integration": "2.0.0"
-    },
+    "require": {},
     "version": "2.0.0",
     "autoload": {
         "files": [
