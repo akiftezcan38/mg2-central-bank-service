@@ -1,11 +1,14 @@
 {
-    "name": "aur/magento-2-central-bank-intergration",
-    "description": "The currency import service in Magento 2 doesn't work any more ",
+    "name": "aur/central-bank-integration",
+    "description": "The currency import service in Magento 2 doesn't work any more (Fixer.io, Webservicex and Yahoo Finance Exchange)e",
     "type": "magento2-module",
     "license": [
-        "MIT"
+        "OSL-3.0"
     ],
-    "require": {},
+    "require": {
+        "aur/central-bank-integration": "2.0.0"
+    },
+    "version": "2.0.0",
     "autoload": {
         "files": [
             "registration.php"
