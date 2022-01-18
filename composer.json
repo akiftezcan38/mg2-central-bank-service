@@ -1,0 +1,23 @@
+{
+    "name": "aurora/magento-2-central-bank-intergration",
+    "description": "The currency import service in Magento 2 doesn't work any more ",
+    "type": "magento2-module",
+    "license": [
+        "MIT"
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Aurora\\CentralBankIntegration\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehmet Akif TEZCAN",
+            "email": "akif.tezcan@aurorabilisim.com"
+        }
+    ]
+}
