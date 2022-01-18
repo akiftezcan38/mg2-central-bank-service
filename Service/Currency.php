@@ -1,6 +1,6 @@
 <?php
 
-namespace Aurora\CentralBankIntegration\Service;
+namespace Aur\CentralBankIntegration\Service;
 
 class Currency
 {

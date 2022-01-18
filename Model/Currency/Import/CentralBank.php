@@ -1,8 +1,8 @@
 <?php
 
-namespace Aurora\CentralBankIntegration\Model\Currency\Import;
+namespace Aur\CentralBankIntegration\Model\Currency\Import;
 
-use Aurora\CentralBankIntegration\Service\Currency;
+use Aur\CentralBankIntegration\Service\Currency;
 use Magento\Framework\HTTP\Client\Curl;
 use Magento\Store\Model\ScopeInterface;
 

@@ -8,7 +8,7 @@
                 <item name="centralbank" xsi:type="array">
                     <item name="label" xsi:type="string">T.C Merkez Bankası</item>
                     <item name="class" xsi:type="string">
-                        Aurora\CentralBankIntegration\Model\Currency\Import\CentralBank
+                        Aur\CentralBankIntegration\Model\Currency\Import\CentralBank
                     </item>
                 </item>
             </argument>
