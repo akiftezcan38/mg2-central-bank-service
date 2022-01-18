@@ -1,5 +1,5 @@
 {
-    "name": "aurora/magento-2-central-bank-intergration",
+    "name": "aur/magento-2-central-bank-intergration",
     "description": "The currency import service in Magento 2 doesn't work any more ",
     "type": "magento2-module",
     "license": [
@@ -11,7 +11,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Aurora\\CentralBankIntegration\\": ""
+            "Aur\\CentralBankIntegration\\": ""
         }
     },
     "authors": [
